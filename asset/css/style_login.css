@@ -1,0 +1,31 @@
+body {
+	background-image: url('../images/login.jpeg');
+	background-size: cover;
+    background-color: #ff5353;
+}
+
+html, body, #content, .container{
+        height: 100%;	
+        /*width: 100%;*/
+}
+
+p.font {
+    font-style: oblique;
+    text-align: center;
+}
+
+header {
+	border-radius: 25px;
+	background-color: #888888;
+}
+
+.login-header {
+        margin-right: 20%;
+        margin-left: 23%;
+        margin-bottom: 40%;
+        margin-top: 20%;
+        width: 60%;
+        height: 50%;
+        /*box-shadow: 10px 10x 5px #888888;*/
+        /*border-radius: 25px;*/
+    }
